@@ -17,6 +17,23 @@
     },
     "description": {
       "type": "text"
+    },
+    "testMedia": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "testDZ": {
+      "type": "dynamiczone",
+      "components": [
+        "test-cat.test-component"
+      ]
     }
   }
 }

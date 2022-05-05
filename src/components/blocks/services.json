@@ -1,0 +1,26 @@
+{
+  "collectionName": "components_blocks_services",
+  "info": {
+    "displayName": "services",
+    "icon": "network-wired",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "servicesHeader": {
+      "type": "component",
+      "repeatable": false,
+      "component": "shared.section-header"
+    },
+    "servicesIconStack": {
+      "type": "component",
+      "repeatable": true,
+      "component": "shared.icon-stack"
+    },
+    "servicesButton": {
+      "type": "component",
+      "repeatable": false,
+      "component": "shared.button"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "collectionName": "components_test_cat_test_components",
+  "info": {
+    "displayName": "testComponent",
+    "icon": "chalkboard-teacher",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "testSingleMedia": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "repeatableComponentTesting": {
+      "displayName": "repeatedTestComponent",
+      "type": "component",
+      "repeatable": true,
+      "component": "test-cat.repeated-test-component"
+    }
+  }
+}

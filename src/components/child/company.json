@@ -1,0 +1,28 @@
+{
+  "collectionName": "components_child_companies",
+  "info": {
+    "displayName": "company",
+    "icon": "child",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "companyImage": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "companyURL": {
+      "type": "string"
+    },
+    "tallLength": {
+      "type": "boolean"
+    }
+  }
+}

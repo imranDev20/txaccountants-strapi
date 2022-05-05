@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_blocks_abouts",
+  "info": {
+    "displayName": "about",
+    "icon": "users",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "aboutHeader": {
+      "type": "component",
+      "repeatable": false,
+      "component": "shared.section-header"
+    },
+    "aboutButton": {
+      "type": "component",
+      "repeatable": false,
+      "component": "shared.button"
+    }
+  }
+}

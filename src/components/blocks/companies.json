@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_blocks_companies",
+  "info": {
+    "displayName": "companies",
+    "icon": "briefcase",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "company": {
+      "displayName": "company",
+      "type": "component",
+      "repeatable": true,
+      "component": "child.company"
+    }
+  }
+}

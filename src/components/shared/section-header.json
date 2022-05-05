@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_shared_section_headers",
+  "info": {
+    "displayName": "Section Header",
+    "icon": "horse-head",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "sectionTitle": {
+      "type": "string"
+    },
+    "sectionDetails": {
+      "type": "text"
+    }
+  }
+}

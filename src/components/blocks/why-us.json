@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_blocks_whyuses",
+  "info": {
+    "displayName": "whyUs",
+    "icon": "question",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "whyUsHeader": {
+      "type": "component",
+      "repeatable": false,
+      "component": "shared.section-header"
+    },
+    "whyUsIconStack": {
+      "type": "component",
+      "repeatable": true,
+      "component": "shared.icon-stack"
+    }
+  }
+}

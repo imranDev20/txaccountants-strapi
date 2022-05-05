@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_test_cat_repeated_test_components",
+  "info": {
+    "displayName": "repeatedTestComponent",
+    "icon": "ambulance",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "mediaInRepeatable": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": true
+    }
+  }
+}

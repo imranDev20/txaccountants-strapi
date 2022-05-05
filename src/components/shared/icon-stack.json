@@ -1,0 +1,20 @@
+{
+  "collectionName": "components_shared_icon_stacks",
+  "info": {
+    "displayName": "Icon Stack",
+    "icon": "icons"
+  },
+  "options": {},
+  "attributes": {
+    "stackIcon": {
+      "allowedTypes": [
+        "images"
+      ],
+      "type": "media",
+      "multiple": false
+    },
+    "stackText": {
+      "type": "string"
+    }
+  }
+}
