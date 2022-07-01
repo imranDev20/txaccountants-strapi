@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_child_faq_stacks",
+  "info": {
+    "displayName": "faqStack",
+    "icon": "align-center",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "faqQues": {
+      "type": "string"
+    },
+    "faqAns": {
+      "type": "text"
+    }
+  }
+}

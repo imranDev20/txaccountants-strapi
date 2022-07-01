@@ -24,7 +24,8 @@
         "blocks.hero",
         "blocks.services",
         "blocks.why-us",
-        "blocks.pricing-home"
+        "blocks.pricing-home",
+        "blocks.faq"
       ]
     },
     "slug": {

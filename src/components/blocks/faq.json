@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_blocks_faqs",
+  "info": {
+    "displayName": "faq",
+    "icon": "question-circle"
+  },
+  "options": {},
+  "attributes": {
+    "faqStack": {
+      "displayName": "faqStack",
+      "type": "component",
+      "repeatable": true,
+      "component": "child.faq-stack"
+    }
+  }
+}
