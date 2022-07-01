@@ -2,7 +2,8 @@
   "collectionName": "components_blocks_faqs",
   "info": {
     "displayName": "faq",
-    "icon": "question-circle"
+    "icon": "question-circle",
+    "description": ""
   },
   "options": {},
   "attributes": {
@@ -11,6 +12,11 @@
       "type": "component",
       "repeatable": true,
       "component": "child.faq-stack"
+    },
+    "faqHeader": {
+      "type": "component",
+      "repeatable": false,
+      "component": "shared.section-header"
     }
   }
 }
