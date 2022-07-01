@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_child_pricing_card_homes",
+  "info": {
+    "displayName": "pricingCardHome",
+    "icon": "id-card"
+  },
+  "options": {},
+  "attributes": {
+    "cardName": {
+      "type": "string"
+    },
+    "taxText": {
+      "type": "string"
+    },
+    "priceRange": {
+      "type": "string"
+    },
+    "buttonText": {
+      "type": "string"
+    }
+  }
+}

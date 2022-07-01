@@ -1,0 +1,27 @@
+{
+  "collectionName": "components_blocks_pricing_homes",
+  "info": {
+    "displayName": "pricingHome",
+    "icon": "money-bill-wave-alt",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "pricingHeader": {
+      "type": "component",
+      "repeatable": true,
+      "component": "shared.section-header"
+    },
+    "cardHeader": {
+      "type": "component",
+      "repeatable": false,
+      "component": "shared.section-header"
+    },
+    "pricingCardHome": {
+      "displayName": "pricingCardHome",
+      "type": "component",
+      "repeatable": true,
+      "component": "child.pricing-card-home"
+    }
+  }
+}

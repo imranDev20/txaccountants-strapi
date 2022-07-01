@@ -23,7 +23,8 @@
         "blocks.companies",
         "blocks.hero",
         "blocks.services",
-        "blocks.why-us"
+        "blocks.why-us",
+        "blocks.pricing-home"
       ]
     },
     "slug": {
