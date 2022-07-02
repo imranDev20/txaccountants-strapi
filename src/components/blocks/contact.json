@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_blocks_contacts",
+  "info": {
+    "displayName": "contact",
+    "icon": "mail-bulk"
+  },
+  "options": {},
+  "attributes": {
+    "contactHeader": {
+      "type": "component",
+      "repeatable": false,
+      "component": "shared.section-header"
+    }
+  }
+}

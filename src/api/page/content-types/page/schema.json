@@ -21,11 +21,12 @@
       "components": [
         "blocks.about",
         "blocks.companies",
+        "blocks.faq",
         "blocks.hero",
+        "blocks.pricing-home",
         "blocks.services",
         "blocks.why-us",
-        "blocks.pricing-home",
-        "blocks.faq"
+        "blocks.contact"
       ]
     },
     "slug": {
